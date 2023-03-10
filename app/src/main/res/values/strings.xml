@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">BTL</string>
+    <string name="app_name">ThucHanh</string>
+    <string name="title">Danh sach cong viec</string>
+    <string name="label_1">Ten cong viec</string>
+    <string name="label_2">Noi dung cong viec</string>
+    <string name="input_hint_1">Dien ten cong viec…</string>
+    <string name="input_hint_2">Dien noi dung cong viec…</string>
+    <string name="label_3">Gioi tinh</string>
+    <string name="radio_button_1">Nam</string>
+    <string name="radio_button_2">Nu</string>
+    <string name="button_submit">Submit</string>
+    <string name="card_button">Delete</string>
+    <string name="card_text_1">TextView</string>
+    <string name="card_text_2">TextView</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+    </string-array>
 </resources>
